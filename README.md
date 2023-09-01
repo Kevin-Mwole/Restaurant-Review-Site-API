@@ -6,6 +6,9 @@ This site will allow its users to:
 3.  star their favorite restaurants
 4.  Leave comments about these places.
 
+### Screenshot
+![Screenshot](screenshot.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
